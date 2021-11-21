@@ -1,0 +1,2 @@
+# enp_gray_whale_java_applet
+Java code for an applet (ca. 2012). Includes a user interface for an age structured model of the historical population dynamics of ENP gray whales. Provides dynamic controls (e.g. slider bars) for model input variables like the magnitude, and sex- and age-composition and of Yankee whaling catch. **Note: Java dependencies for the user interface may be missing. This code is not currently maintained. 
